@@ -16,7 +16,7 @@ This program monitors simulated device temperature readings using Python. It cla
 - Reject invalid menu choices and invalid readings
  
 ## Requirements
-- Python 3 (no external packages)
+- this program is made using python  3 and does not require additional packages to run it.
  
 ## How to Run
 1. Open a terminal inside the Week17 folder.
